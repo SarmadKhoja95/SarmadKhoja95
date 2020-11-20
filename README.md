@@ -21,7 +21,7 @@
 <br/>
 <br/>
 
-Full Stack Developer | Web Developer | Android Developer | iOS Developer | Destop Application Developer | Android Development | React.js | React Native | Javascript | Rust
+Full Stack Developer | Web Developer | Android Developer | iOS Developer | Destkop Application Developer | React.js | React Native | Javascript | Rust
 
 ## About :sunglasses:
 Computer Science Graduated. Currently working as a Full Stack Web & Mobile Developer at Fiverr. Passionate and Hardworking. Always like to work with good people.
