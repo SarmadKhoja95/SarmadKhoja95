@@ -21,7 +21,7 @@
 <br/>
 <br/>
 
-Full Stack Developer | Web Developer | Android Developer | iOS Developer | Desktop Application Developer | React.js | React Native | Javascript | Rust
+Software Engineer | Web3 | WebRTC | React.js | Next.js | React Native | Angular | Electron | Javascript
 
 ## About :sunglasses:
 Computer Science Graduated. Currently working as a Full Stack Web & Mobile Developer at Fiverr. Passionate and Hardworking. Always like to work with good people.
